@@ -5,8 +5,8 @@
 #               if master node is down,backup will be take over automatically(This example is two nodes web server). \
 # role			     name	   ip
 #---------------------------------
-# director  	   node1 	192.168.2.100
-# director  	   node2	192.168.2.101
+# director  	 node1 	192.168.2.100
+# director  	 node2	192.168.2.101
 # realserver     node3 	192.168.2.102
 # realserver  	 node4 	192.168.2.103
 
